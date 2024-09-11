@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanin Kaoaian
 =====================================================================================================================================
 
-IT, SIT, KMUTT (King mongkut's university of technology thonburi)
+IT, SIT, KMUTT (King mongkut's university of technology thonburi) <img src="https://www.kmutt.ac.th/wp-content/uploads/2020/09/KMUTT_CI_Semi_Logo-normal-full-265x300.png" alt="KMUTT" width="70" height="75">
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
