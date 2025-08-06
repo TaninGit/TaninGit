@@ -14,7 +14,7 @@ IT, SIT, KMUTT (King mongkut's university of technology thonburi) <img src="http
 
 
 <p align="left">
-<p>Pyhton, Java, JavaScript, HTML&CSS, MySql, Vue, Sprintboots</p>
+<p>Pyhton, Java, JavaScript, HTML&CSS, MySql, Vue, SpringBoots</p>
 
 
 ### Socials
