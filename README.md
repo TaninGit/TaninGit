@@ -1,7 +1,10 @@
 <h1 align="center"># Hi👏, I'm Chieang </h1>  
 <h4 align="center">
-🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>🤝 I’m looking for help with: Learning Docker<br>🌱 How to reach me: chieangtanin@gmail.com<br>💬 Know about my experiences: linkedin.com/in/tanin-kaoaian-a96b6b287<br>⚡ Fun fact: Japan Anime Movie Ghost Horror
-
+🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>
+🤝 I’m looking for help with: Learning Docker<br>
+🌱 How to reach me: <a href="mailto:chieangtanin@gmail.com">chieangtanin@gmail.com</a><br>
+💬 Know about my experiences: <a href="https://linkedin.com/in/tanin-kaoaian-a96b6b287">linkedin.com/in/tanin-kaoaian-a96b6b287</a><br>
+⚡ Fun fact: Japan Anime Movie Ghost Horror
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tn_meta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tanin-kaoaian-a96b6b287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chieangtanin@gmail.com) 
