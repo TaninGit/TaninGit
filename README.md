@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h3 align="center">
+<h3 align="center"># 💫 About Me: </h3>  
+<h4 align="center">
 🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>🤝 I’m looking for help with: Learning Docker<br>🌱 How to reach me: chieangtanin@gmail.com<br>💬 Know about my experiences: linkedin.com/in/tanin-kaoaian-a96b6b287<br>⚡ Fun fact: Japan Anime Movie Ghost Horror
 
 
@@ -12,5 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=TaninGit&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TaninGit&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaninGit&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</h3>
+</h4>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
