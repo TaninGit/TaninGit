@@ -1,9 +1,9 @@
 <h1 align="center"># Hi👏, I'm Chieang </h1>  
-<h4 align="center">
+<h3 align="center">
 🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>
 🤝 I’m looking for help with: Learning Docker<br>
-🌱 How to reach me: <a href="mailto:chieangtanin@gmail.com">chieangtanin@gmail.com</a><br>
-💬 Know about my experiences: <a href="https://linkedin.com/in/tanin-kaoaian-a96b6b287">linkedin.com/in/tanin-kaoaian-a96b6b287</a><br>
+🌱 How to reach me: <a href="mailto:chieangtanin@gmail.com" target="_blank">chieangtanin@gmail.com</a><br>
+💬 Know about my experiences: <a href="https://linkedin.com/in/tanin-kaoaian-a96b6b287" target="_blank">linkedin.com/in/tanin-kaoaian-a96b6b287</a><br>
 ⚡ Fun fact: Japan Anime Movie Ghost Horror
 
 ## 🌐 Socials:
@@ -15,5 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=TaninGit&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TaninGit&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaninGit&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</h4>
+</h3>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
