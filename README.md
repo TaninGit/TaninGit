@@ -1,4 +1,4 @@
-<h3 align="center"># 💫 About Me: </h3>  
+<h1 align="center"># 💫 About Me: </h1>  
 <h4 align="center">
 🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>🤝 I’m looking for help with: Learning Docker<br>🌱 How to reach me: chieangtanin@gmail.com<br>💬 Know about my experiences: linkedin.com/in/tanin-kaoaian-a96b6b287<br>⚡ Fun fact: Japan Anime Movie Ghost Horror
 
