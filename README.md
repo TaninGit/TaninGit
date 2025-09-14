@@ -3,7 +3,7 @@
 🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>
 🤝 I’m looking for help with: Learning Docker<br>
 🌱 How to reach me: <a href="mailto:chieangtanin@gmail.com" target="_blank">chieangtanin@gmail.com</a><br>
-💬 Know about my experiences: <a href="https://linkedin.com/in/tanin-kaoaian-a96b6b287" target="_blank">linkedin.com/in/tanin-kaoaian-a96b6b287</a><br>
+💬 Know about my experiences: <a href="https://linkedin.com/in/tanin-kaoaian-a96b6b287" target="_blank" rel="noopener noreferrer">linkedin.com/in/tanin-kaoaian-a96b6b287</a><br>
 ⚡ Fun fact: Japan Anime Movie Ghost Horror
 
 ## 🌐 Socials:
