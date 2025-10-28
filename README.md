@@ -1,4 +1,4 @@
-<h1 align="center"># Hi👏, I'm Chieang </h1>  
+<h1 align="center"># Hi👏, I'm Tanin Kaoaian </h1>  
 <h3 align="center">
 🔭 I’m currently studying : King Mongkut’s University of Technology Thonburi (KMUTT)<br>
 🤝 I’m looking for help with: Learning Docker<br>
